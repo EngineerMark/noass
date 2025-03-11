@@ -1,0 +1,15 @@
+.NoAss-preset {
+    display: flex;
+    align-items: baseline;
+    gap: 1em;
+}
+.NoAss-preset > .NoAss-preset-actions {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    gap: 0.5em;
+}
+
+.hidden {
+    display: none;
+}

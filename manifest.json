@@ -1,0 +1,12 @@
+{
+    "display_name": "NoAss",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "styles.css",
+    "author": "Monblant",
+    "version": "1.0.2",
+    "homePage": "https://gitgud.io/Monblant/noass",
+    "auto_update": true
+}
